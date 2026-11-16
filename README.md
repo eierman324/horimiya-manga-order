@@ -16,7 +16,7 @@ The watch order is by *arashi* (u/iiStormBringer) from the fan document *"Everyt
 
 ## Download
 
-On the [Releases page](https://github.com/e1erman/horimiya-manga-order/releases):
+On the [Releases page](https://github.com/eierman324/horimiya-manga-order/releases):
 
 - **`HorimiyaMangaOrder.exe`** – Windows, no Python needed. Just double-click it.
   Windows may warn that the app is unknown (it isn't signed): click *More info → Run anyway*.
